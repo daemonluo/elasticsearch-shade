@@ -1,0 +1,10 @@
+.DS_Store
+.idea/
+elasticsearch-shade.iml
+target/
+elasticsearch5/dependency-reduced-pom.xml
+elasticsearch6/dependency-reduced-pom.xml
+elasticsearch7/dependency-reduced-pom.xml
+elasticsearch5/target/
+elasticsearch6/target/
+elasticsearch7/target/
